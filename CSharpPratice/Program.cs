@@ -1,4 +1,5 @@
-﻿using System;
+﻿using SixCharpterArray;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,6 +11,10 @@ namespace CSharpPratice
     {
         static void Main(string[] args)
         {
+            var createArrayInstance = new CreateArray();
+            createArrayInstance.CreateInstance();
+
+            Console.ReadLine();
         }
     }
 }

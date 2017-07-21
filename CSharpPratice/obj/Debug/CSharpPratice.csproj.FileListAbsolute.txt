@@ -1,1 +1,8 @@
 D:\PrivateProject\CSharpPratice\CSharpPratice\bin\Debug\CSharpPratice.exe.config
+D:\PrivateProject\CSharpPratice\CSharpPratice\bin\Debug\CSharpPratice.exe
+D:\PrivateProject\CSharpPratice\CSharpPratice\bin\Debug\CSharpPratice.pdb
+D:\PrivateProject\CSharpPratice\CSharpPratice\obj\Debug\CSharpPratice.csprojResolveAssemblyReference.cache
+D:\PrivateProject\CSharpPratice\CSharpPratice\obj\Debug\CSharpPratice.exe
+D:\PrivateProject\CSharpPratice\CSharpPratice\obj\Debug\CSharpPratice.pdb
+D:\PrivateProject\CSharpPratice\CSharpPratice\bin\Debug\SixCharpterArray.dll
+D:\PrivateProject\CSharpPratice\CSharpPratice\bin\Debug\SixCharpterArray.pdb
