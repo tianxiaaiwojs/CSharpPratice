@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpPratice", "CSharpPratice\CSharpPratice.csproj", "{ED0E6817-0BEE-4419-9CF6-C0EAF925D082}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SixCharpterArray", "SixCharpterArray\SixCharpterArray.csproj", "{B178324F-B917-4963-8EF6-D594B2652DD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED0E6817-0BEE-4419-9CF6-C0EAF925D082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED0E6817-0BEE-4419-9CF6-C0EAF925D082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED0E6817-0BEE-4419-9CF6-C0EAF925D082}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED0E6817-0BEE-4419-9CF6-C0EAF925D082}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B178324F-B917-4963-8EF6-D594B2652DD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B178324F-B917-4963-8EF6-D594B2652DD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B178324F-B917-4963-8EF6-D594B2652DD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B178324F-B917-4963-8EF6-D594B2652DD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
