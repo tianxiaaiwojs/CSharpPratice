@@ -12,8 +12,9 @@ namespace CSharpPratice
         static void Main(string[] args)
         {
             var createArrayInstance = new CreateArray();
-            createArrayInstance.CreateInstance();
-
+            createArrayInstance.SortPerson();
+            Console.WriteLine();
+            createArrayInstance.EnumerateHelloWorld();
             Console.ReadLine();
         }
     }
